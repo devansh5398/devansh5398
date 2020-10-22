@@ -1,6 +1,6 @@
-+ [![binarysearch](https://binarysearch.com/api/shields/devansh5398)](https://binarysearch.com/@/devansh5398)
-+ https://run.kaist.ac.kr/badges/codeforces/devansh5398.svg
-+ https://run.kaist.ac.kr/badges/atcoder/devansh5398.svg
+[![binarysearch](https://binarysearch.com/api/shields/devansh5398)](https://binarysearch.com/@/devansh5398)
+<a href="https://codeforces.com/profile/devansh5398"><img src="https://run.kaist.ac.kr/badges/codeforces/devansh5398.svg"></a>
+<a href="https://atcoder.jp/users/devansh5398"><img src="https://run.kaist.ac.kr/badges/atcoder/devansh5398.svg"></a>
 
 <!--
 ### Hi there 👋
