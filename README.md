@@ -1,6 +1,8 @@
-### Hi there 👋
++[![binarysearch](https://binarysearch.com/api/shields/devansh5398)](https://binarysearch.com/@/devansh5398)
 
 <!--
+### Hi there 👋
+
 **devansh5398/devansh5398** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
