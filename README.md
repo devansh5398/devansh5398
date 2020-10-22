@@ -1,4 +1,4 @@
-+[![binarysearch](https://binarysearch.com/api/shields/devansh5398)](https://binarysearch.com/@/devansh5398)
+[![binarysearch](https://binarysearch.com/api/shields/devansh5398)](https://binarysearch.com/@/devansh5398)
 
 <!--
 ### Hi there 👋
